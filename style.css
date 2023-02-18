@@ -1,0 +1,111 @@
+body {
+    background-image: url("wallpaper2.jpg");
+    background-size: 1920px 1080px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+nav{
+    display: inline;
+    
+    
+}
+.aziz{
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.portfolio{
+    color: rgb(0, 215, 223);
+    font-size: 35px;
+    font-style: italic;
+    text-align: center;
+    text-decoration:dashed;
+}
+.aboutme{
+    color:rgba(10, 10, 10, 0.897) ;
+    font-style: bold ;
+    font-size: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.studies{
+    color: rgba(0, 0, 0, 0.993);
+    font-style: bold ;
+    font-size: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.title{
+   text-align: center;
+    color: rgba(90, 37, 126, 0.986);
+
+}
+h3{
+    padding-left: 120px;
+    padding-top: 6%;
+    color: rgba(34, 131, 175, 0.767);
+}
+.center{
+    display: block;
+    margin-left: 620px;
+    margin-right: auto;
+    width: 10%;
+}
+.copyright{
+    text-align: center;
+   
+}
+.blocks{
+    display:flex;
+    
+}
+
+.facebook:visited{
+    color: rgb(43, 61, 226);
+}
+.instagram:visited{
+    color: rgb(187, 30, 127);
+}
+.social{
+    display: flex;
+    margin-top: 7%;
+    margin-left: 550px;
+}
+.logo{
+    height: 20px;
+    width: 20px;
+}
+.box{
+    border: 5px inset rgb(212, 167, 182);
+    margin-left: 10px;
+    background-color:rgba(245, 245, 245, 0.233);
+    border-radius: 20px;
+
+}
+.contact{
+    display: flex;
+    display: inline;
+}
+.input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(231, 231, 231);
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: transparent;
+}
+.msg{
+    box-shadow: 10%;
+    background-color: transparent;
+    border-radius: 4px;
+    border: 1px solid rgb(231, 231, 231);
+}

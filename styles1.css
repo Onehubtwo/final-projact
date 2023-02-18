@@ -1,0 +1,197 @@
+body{
+    
+}
+.logo{
+    height: 20%;
+}
+.navbar{
+    background-color: black;
+    flex-wrap: nowrap;
+}
+.main-nav{
+    padding-left: 10px;
+}
+.pageicon{
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
+.title{
+    color: rgb(7, 153, 153);
+    font-style: normal;
+    font-weight:300;
+}
+.parag{
+    display: flex;
+    color:rgb(138, 137, 135);
+    font-size:x-large;
+    
+}
+.intro{
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+
+}
+.patients_background{
+    background-color:#00ccb1;
+    width:23% ;
+    color: white;
+    border-radius: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+   
+    }
+.formpad{
+padding-top:70px ;
+
+}
+.sel{
+     border: none;
+     background: none;
+     color: white;
+     text-decoration: underline;
+     margin-top: 50px;
+}
+.sel option{
+     color: black;
+}
+.doctor_background{
+     background-color: #3d83df;
+     width: 23%;
+     color:whitesmoke ;
+     border-radius: 10px;
+     margin-left: 25px;
+     margin-right: 25px;
+
+     
+}           
+.formfd{
+     margin-top: 100px;
+}
+.sel2{
+     border: none;
+     background: none;
+     color: white;
+     text-decoration: underline;
+     margin-top: 55px;
+}
+.sel2 option{
+     color: black;
+     
+}
+.clinics{
+    background-color:#1b2734 ;
+    width: 23%;
+    color:whitesmoke ;
+    border-radius: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+
+
+}
+
+.forclinics{
+padding-top: 170px;
+}
+.sel3{
+border: none;
+background: none;
+color: white;
+text-decoration: underline;
+margin-top: 80px;
+}
+.sel3 option{
+color: black;
+}
+.sel4{
+border: none;
+background: none;
+color: white;
+text-decoration: underline;
+margin-top: 30px;
+}
+.sel4 option{
+color: black;
+}
+.boxes{
+    display: flex;
+    padding-left: 250px;
+    margin-bottom: 50px;
+}
+.parabox{
+    font-size:large;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 4fr 4fr;
+}
+.flexy{
+    display: flex;
+}
+.center-img{
+    padding-left: 60px;
+}
+.outer{
+    display: flex;
+}
+.site{
+    font-size: x-large;
+    color: rgb(3, 175, 175);
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+.countries{
+    color: rgb(3, 175, 175);
+    padding-top: 50px;
+    padding-right: 350px;
+    padding-left: 350px;
+}
+.p-count{
+    color: #343435d7;
+    padding-top: 25px;
+    padding-right: 350px;
+    padding-left: 350px;
+
+}
+.pays-img{
+    display: flex;
+    margin-left: 200px;
+    
+}
+.tourism{
+    border: 1px inset rgb(212, 167, 182);
+    border-radius: 15px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+}
+.boarder{
+    border-radius: 15px;
+}
+.names{
+    font-size: larger;
+    color: rgba(78, 78, 78, 0.884);
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.search{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.btn{
+    margin-top: 15px;
+}
+.interst{
+    padding-top: 50px;
+}
+.section__inner{
+    margin-top: 50px;
+}
